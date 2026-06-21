@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Jobdes Pengecekan HP & Shift Staf",
+  "description": "Aplikasi dashboard operasional responsif untuk mengacak pembagian tugas pengecekan HP dan area kerja staf secara otomatis setiap shift.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
